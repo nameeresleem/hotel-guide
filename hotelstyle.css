@@ -1,0 +1,60 @@
+.home{
+    background-image: url(300.jpg);
+    background-position: center;
+    background-size: contain;
+    }
+    h1{
+       color: black;
+    }
+    h3{
+        color: rgb(20, 36, 255);
+    }
+    p{
+        color: gray;
+    }
+    .title{
+    scroll-behavior: auto;
+    }
+    .top{
+        text-align: center;
+        font-size: 25px;
+        }
+        .hotels {
+            text-align: center;
+        }
+        .hotel1 button{
+            margin-bottom: 50px;
+            margin-top: 20px;
+            cursor: pointer; 
+            border: none;
+            border-radius: 15px;
+            padding: 12px 75px;
+        }
+        .hotel2 button{
+            margin-bottom: 50px;
+            cursor: pointer; 
+            border: none;
+            border-radius: 15px;
+            padding: 12px 60px;
+        }
+        .hotel3 button{
+            margin-bottom: 50px;
+            cursor: pointer;
+            border: none;
+            border-radius: 15px;
+            padding: 12px 50px; 
+        }
+        .hotel4 button{
+            margin-bottom: 50px;
+            cursor: pointer; 
+            border: none;
+            border-radius: 15px;
+            padding: 12px 60px; 
+        }
+        .hotel5 button{
+            margin-bottom: 50px;
+            cursor: pointer; 
+            border: none;
+            border-radius: 15px;
+            padding: 12px 50px; 
+        }
